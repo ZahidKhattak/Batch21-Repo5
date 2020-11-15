@@ -1,0 +1,2 @@
+hi I  had created new file 3 to
+check git in atom
